@@ -1,0 +1,78 @@
+body {
+  padding-top: 5rem;
+font-family: 'Noto Sans', sans-serif;
+
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: bold;
+}
+
+.nav-link, .navbar-brand {
+    color:black !important;
+}
+
+.navbar, #navbarsExampleDefault {
+    background-color: #FCCB02 !important;
+}
+
+.header, .description {
+    text-align: center;
+}
+
+#map {
+    margin-left: auto;   /* Automatic margin from left */
+       margin-right: auto;
+}
+#iframe {
+    text-align:center;
+}
+
+iframe {
+    text-align: center;
+    display: inline-block;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+#countdown {
+    display: inline-block;
+    width: 325px;
+    background-color:#FCCB02;
+}
+
+.list-group, iframe {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hugeicon {
+    font-size: 100px;
+}
+
+#steps {
+    text-align: center;
+}
+
+#featured-description {
+    text-align: left;
+}
+
+#footer {
+    text-align:center;
+}
+
+.btn, .card-header {
+    background-color: #FCCB02;
+    color: black;
+}
+
+#check {
+    text-align: left !important;
+}
