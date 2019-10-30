@@ -1,6 +1,6 @@
 # Frederick High School Safe and Sane 2020
 
-(https://github.com/cpondoc/FHS-Safe-and-Sane-2020/blob/master/images/SafeAndSane.jpg)
+![](https://github.com/cpondoc/FHS-Safe-and-Sane-2020/blob/master/images/SafeAndSane.jpg)
 
 ### Description
 The official website for the Frederick High School Safe and Sane 2020 Committee.
